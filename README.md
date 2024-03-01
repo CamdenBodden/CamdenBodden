@@ -1,4 +1,4 @@
-<h1>Hello, I'm Camden, an <a href="www.linkedin.com/in/camden-bodden-201670235">IT Professional</a></h1>
+<h1>Hello, I'm Camden, an <a href="https://www.linkedin.com/in/camden-bodden-201670235">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
