@@ -13,6 +13,7 @@
 
 - <b>Python</b>
   - [Data Structures & Algorithms II Project ](https://github.com/CamdenBodden/Data-Structures-and-Algorithms-II-Project)
+  - [Computer Science Machine Learning Capstone](https://github.com/CamdenBodden/WGU_C964_Capstone)
 - <b>Java</b>
   - COMING SOON
 <h2>🤳Connect with me:</h2>
