@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CamdenBodden/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 - <b>Enterprise IT Environment Project</b>
-  - [Enterprise Network & Systems Administration Project](https://github.com/CamdenBodden/osTicket-Project)
+  - [Enterprise Network & Systems Administration Project](https://github.com/CamdenBodden/Enterprise-Network-Systems-Administration-Project)
 
 <h2>⌨️ Programming Projects:</h2>
 
